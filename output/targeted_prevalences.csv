@@ -1,32 +1,32 @@
 ITEM,CATEGORY,STATUS,AGE GROUP,GENDER,RACE,GIVEN CONDITION,ACTUAL PREVALENCE PERCENT,SYNTHEA OCCURRENCES,SYNTHEA POPULATION,SYNTHEA PREVALENCE RATE,SYNTHEA PREVALENCE PERCENT,DIFFERENCE,REFERENCE
-Prediabetes,unique conditions,living,adult,*,*,*,38,22,52,0.42,42.31,4.31,http://jamanetwork.com/journals/jama/fullarticle/2434682
+Prediabetes,unique conditions,living,adult,*,*,*,38,1150,3564,0.32,32.27,-5.73,http://jamanetwork.com/journals/jama/fullarticle/2434682
 ,,,,,,,,,,,,,
-Diabetes,unique conditions,living,adult,*,*,*,8.8,6,52,0.12,11.54,2.74,https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html
-Diabetes,unique conditions,living,adult,*,white,*,6.5,2,42,0.05,4.76,-1.74,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
-Diabetes,unique conditions,living,adult,*,hispanic,*,14.2,3,5,0.6,60.0,45.8,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
-Diabetes,unique conditions,living,adult,*,black,*,12.8,1,4,0.25,25.0,12.2,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
-Diabetes,unique conditions,living,adult,*,asian,*,16,0,1,0.0,0.0,-16.0,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
+Diabetes,unique conditions,living,adult,*,*,*,8.8,264,3564,0.07,7.41,-1.39,https://gis.cdc.gov/grasp/diabetes/DiabetesAtlas.html
+Diabetes,unique conditions,living,adult,*,white,*,6.5,58,1485,0.04,3.91,-2.59,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
+Diabetes,unique conditions,living,adult,*,hispanic,*,14.2,44,438,0.1,10.05,-4.15,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
+Diabetes,unique conditions,living,adult,*,black,*,12.8,128,1388,0.09,9.22,-3.58,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
+Diabetes,unique conditions,living,adult,*,asian,*,16,34,253,0.13,13.44,-2.56,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
 Diabetes,unique conditions,living,adult,*,native,*,14.3,0,0,0,0,-14.3,http://www.mass.gov/eohhs/gov/departments/dph/programs/community-health/diabetes/facts/diabetes-statistics.html
 ,,,,,,,,,,,,,
-Hypertension,unique conditions,living,adult,*,*,*,29.6,19,52,0.37,36.54,6.94,http://www.cdc.gov/MMWr/preview/mmwrhtml/su6203a24.htm#Tab
-Hypertension,unique conditions,living,adult,*,*,Diabetes,59.4,3,6,0.5,50.0,-9.4,http://www.cdc.gov/MMWr/preview/mmwrhtml/su6203a24.htm#Tab
-Diabetic renal disease (disorder),unique conditions,living,adult,*,*,Diabetes,34.5,1,6,0.17,16.67,-17.83,http://link.springer.com/chapter/10.1007%2F978-1-4939-0793-9_2
-Microalbuminuria due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,28.8,0,6,0.0,0.0,-28.8,https://www.ncbi.nlm.nih.gov/pubmed/11877563
-Proteinuria due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-End stage renal disease (disorder),unique conditions,living,adult,*,*,Diabetes,0.78,0,6,0.0,0.0,-0.78,https://www.cdc.gov/diabetes/pdfs/data/2014-report-estimates-of-diabetes-and-its-burden-in-the-united-states.pdf
-Diabetic retinopathy associated with type II diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,40.3,0,6,0.0,0.0,-40.3,https://www.ncbi.nlm.nih.gov/pubmed/15078674
-Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,7,0,6,0.0,0.0,-7.0,http://care.diabetesjournals.org/content/35/3/556
-Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,11,0,6,0.0,0.0,-11.0,http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf
-Blindness due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,1,0,6,0.0,0.0,-1.0,http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf
-Neuropathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,50,2,6,0.33,33.33,-16.67,http://care.diabetesjournals.org/content/27/5/1153#ref-1
-History of lower limb amputation (situation),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-History of amputation of foot (situation),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-History of upper limb amputation (situation),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-History of disarticulation at wrist (situation),unique conditions,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
+Hypertension,unique conditions,living,adult,*,*,*,29.6,1150,3564,0.32,32.27,2.67,http://www.cdc.gov/MMWr/preview/mmwrhtml/su6203a24.htm#Tab
+Hypertension,unique conditions,living,adult,*,*,Diabetes,59.4,156,264,0.59,59.09,-0.31,http://www.cdc.gov/MMWr/preview/mmwrhtml/su6203a24.htm#Tab
+Diabetic renal disease (disorder),unique conditions,living,adult,*,*,Diabetes,34.5,85,264,0.32,32.2,-2.3,http://link.springer.com/chapter/10.1007%2F978-1-4939-0793-9_2
+Microalbuminuria due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,28.8,26,264,0.1,9.85,-18.95,https://www.ncbi.nlm.nih.gov/pubmed/11877563
+Proteinuria due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,,8,264,0.03,3.03,,
+End stage renal disease (disorder),unique conditions,living,adult,*,*,Diabetes,0.78,0,264,0.0,0.0,-0.78,https://www.cdc.gov/diabetes/pdfs/data/2014-report-estimates-of-diabetes-and-its-burden-in-the-united-states.pdf
+Diabetic retinopathy associated with type II diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,40.3,87,264,0.33,32.95,-7.35,https://www.ncbi.nlm.nih.gov/pubmed/15078674
+Nonproliferative diabetic retinopathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,,55,264,0.21,20.83,,
+Proliferative diabetic retinopathy due to type II diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,7,8,264,0.03,3.03,-3.97,http://care.diabetesjournals.org/content/35/3/556
+Macular edema and retinopathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,11,19,264,0.07,7.2,-3.8,http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf
+Blindness due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,1,1,264,0.0,0.38,-0.62,http://www.idf.org/sites/default/files/IDF%2520Toolkit_Backgrounder_FINAL.pdf
+Neuropathy due to type 2 diabetes mellitus (disorder),unique conditions,living,adult,*,*,Diabetes,50,116,264,0.44,43.94,-6.06,http://care.diabetesjournals.org/content/27/5/1153#ref-1
+History of lower limb amputation (situation),unique conditions,living,adult,*,*,Diabetes,,1,264,0.0,0.38,,
+History of amputation of foot (situation),unique conditions,living,adult,*,*,Diabetes,,1,264,0.0,0.38,,
+History of upper limb amputation (situation),unique conditions,living,adult,*,*,Diabetes,,0,264,0.0,0.0,,
+History of disarticulation at wrist (situation),unique conditions,living,adult,*,*,Diabetes,,0,264,0.0,0.0,,
 ,,,,,,,,,,,,,
-24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,unique medications,living,adult,*,*,Diabetes,,4,6,0.67,66.67,,
-3 ML liraglutide 6 MG/ML Pen Injector,unique medications,living,adult,*,*,Diabetes,,1,6,0.17,16.67,,
-canagliflozin 100 MG Oral Tablet,unique medications,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,
-"insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]",unique medications,living,adult,*,*,Diabetes,,1,6,0.17,16.67,,https://www.cdc.gov/diabetes/statistics/meduse/fig2.htm
-Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],unique medications,living,adult,*,*,Diabetes,,0,6,0.0,0.0,,https://www.cdc.gov/diabetes/statistics/meduse/fig2.htm
+24 HR Metformin hydrochloride 500 MG Extended Release Oral Tablet,unique medications,living,adult,*,*,Diabetes,,223,264,0.84,84.47,,
+3 ML liraglutide 6 MG/ML Pen Injector,unique medications,living,adult,*,*,Diabetes,,73,264,0.28,27.65,,
+canagliflozin 100 MG Oral Tablet,unique medications,living,adult,*,*,Diabetes,,19,264,0.07,7.2,,
+"insulin human, isophane 70 UNT/ML / Regular Insulin, Human 30 UNT/ML Injectable Suspension [Humulin]",unique medications,living,adult,*,*,Diabetes,,82,264,0.31,31.06,,https://www.cdc.gov/diabetes/statistics/meduse/fig2.htm
+Insulin Lispro 100 UNT/ML Injectable Solution [Humalog],unique medications,living,adult,*,*,Diabetes,,23,264,0.09,8.71,,https://www.cdc.gov/diabetes/statistics/meduse/fig2.htm

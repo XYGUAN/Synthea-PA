@@ -456,7 +456,10 @@ module Synthea
 
         weight = (person.get_vital_sign_value(:weight) * 2.20462).to_i
         str << " #{weight} lbs. -- #{options[:active_conditions].map(&:to_s).join(', ')}"
-
+        folder = Synthea::Config.exporter.location
+        File.open(File.join(folder, 'patients_data.txt'), 'a') do |f|
+          f.puts str
+        end
         puts str
       end
 

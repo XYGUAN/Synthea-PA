@@ -271,7 +271,7 @@ namespace :synthea do
     options = { :headers => true, :header_converters => :symbol }
     towns = {}
     counties = {}
-    townfile = File.open('./resources/Penn/SUB-EST2015_42.csv', 'r:UTF-8')
+    townfile = File.open('./resources/SUB-EST2015_18.csv', 'r:UTF-8')
     CSV.foreach(townfile, options) do |row|
       if row[:primgeo_flag].to_i == 1 && row[:funcstat] == 'A'
         town_name = row[:name].split.keep_if { |x| !%w(town township city CDP (balance) (pt.)).include?(x.downcase) }.join(' ')
@@ -290,7 +290,7 @@ namespace :synthea do
     end
     townfile.close
     ageGroups = ['Total', (0..4), (5..9), (10..14), (15..19), (20..24), (25..29), (30..34), (35..39), (40..44), (45..49), (50..54), (55..59), (60..64), (65..69), (70..74), (75..79), (80..84), (85..110)]
-    countyfile = File.open('./resources/Penn/CC-EST2015-ALLDATA-42.csv', 'r:UTF-8')
+    countyfile = File.open('./resources/CC-EST2015-ALLDATA-18.csv', 'r:UTF-8')
     CSV.foreach(countyfile, options) do |row|
       # if (2015 estimate) && (total overall demographics)
       if row[:year].to_i == 8 && row[:agegrp].to_i.zero?
@@ -322,7 +322,7 @@ namespace :synthea do
     end
     countyfile.close
 
-    incomefile = File.open('./resources/Penn/ACS_14_5YR_S1901_with_ann.csv', 'r:UTF-8')
+    incomefile = File.open('./resources/ACS_14_5YR_S1901_ann.csv', 'r:UTF-8')
     CSV.foreach(incomefile, options) do |row|
       next if row[:geoid] == 'Id' # this CSV has 2 header rows
       next if row[:geodisplaylabel].include?('not defined')
@@ -347,7 +347,7 @@ namespace :synthea do
     end
     incomefile.close
 
-    educationfile = File.open('./resources/Penn/ACS_14_5YR_S1501_with_ann.csv', 'r:UTF-8')
+    educationfile = File.open('./resources/ACS_14_5YR_S1501_ann.csv', 'r:UTF-8')
     CSV.foreach(educationfile, options) do |row|
       next if row[:geoid] == 'Id' # this CSV has 2 header rows
       next if row[:geodisplaylabel].include?('not defined')
