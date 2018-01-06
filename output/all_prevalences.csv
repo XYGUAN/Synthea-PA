@@ -1,250 +1,123 @@
 ITEM,POPULATION TYPE,OCCURRENCES,POPULATION COUNT,PREVALENCE RATE,PREVALENCE PERCENTAGE
-Otitis Media,LIVING,3275,4613,0.7099501409061348,71.0
-Acute Bronchitis (Disorder),LIVING,3511,4613,0.7611099067851723,76.11
-Acute Viral Pharyngitis (Disorder),LIVING,3673,4613,0.7962280511597659,79.62
-Laceration Of Thigh,LIVING,436,4613,0.094515499674832,9.45
-Prediabetes,LIVING,1150,4613,0.24929546932581834,24.93
-Normal Pregnancy,LIVING,1699,4613,0.36830695859527424,36.83
-Viral Sinusitis (Disorder),LIVING,4013,4613,0.8699327986126165,86.99
-Perennial Allergic Rhinitis,LIVING,192,4613,0.04162150444396272,4.16
-Streptococcal Sore Throat (Disorder),LIVING,2270,4613,0.4920875785822675,49.21
-Sinusitis (Disorder),LIVING,865,4613,0.1875135486668112,18.75
-Chronic Sinusitis (Disorder),LIVING,883,4613,0.19141556470843268,19.14
-First Degree Burn,LIVING,361,4613,0.07825709950140906,7.83
-Sprain Of Wrist,LIVING,780,4613,0.1690873618035985,16.91
-Fracture Of Forearm,LIVING,544,4613,0.11792759592456102,11.79
-Hypertension,LIVING,1150,4613,0.24929546932581834,24.93
-Shellfish Allergy,LIVING,175,4613,0.03793626707132018,3.79
-Allergy To Tree Pollen,LIVING,340,4613,0.07370474745285063,7.37
-Allergy To Grass Pollen,LIVING,346,4613,0.07500541946672447,7.5
-Dander (Animal) Allergy,LIVING,427,4613,0.09256449165402124,9.26
-House Dust Mite Allergy,LIVING,335,4613,0.07262085410795578,7.26
-Allergy To Mould,LIVING,448,4613,0.09711684370257967,9.71
-Concussion With Loss Of Consciousness,LIVING,258,4613,0.0559288965965749,5.59
-Atopic Dermatitis,LIVING,154,4613,0.03338391502276176,3.34
-Childhood Asthma,LIVING,245,4613,0.05311077389984825,5.31
-Seasonal Allergic Rhinitis,LIVING,86,4613,0.018642965532191632,1.86
-Allergy To Nut,LIVING,110,4613,0.02384565358768697,2.38
-Allergy To Wheat,LIVING,116,4613,0.025146325601560805,2.51
-Allergy To Eggs,LIVING,147,4613,0.03186646433990895,3.19
-Allergy To Dairy Product,LIVING,112,4613,0.024279210925644917,2.43
-Fracture Subluxation Of Wrist,LIVING,482,4613,0.10448731844786473,10.45
-Asthma,LIVING,157,4613,0.034034251029698676,3.4
-Antepartum Eclampsia,LIVING,385,4613,0.0834597875569044,8.35
-Miscarriage In First Trimester,LIVING,592,4613,0.1283329720355517,12.83
-Blighted Ovum,LIVING,212,4613,0.045957077823542164,4.6
-Fetus With Chromosomal Abnormality,LIVING,501,4613,0.1086061131584652,10.86
-Acute Allergic Reaction,LIVING,268,4613,0.05809668328636462,5.81
-Allergy To Fish,LIVING,118,4613,0.025579882939518753,2.56
-Latex Allergy,LIVING,145,4613,0.031432907001951005,3.14
-Concussion With No Loss Of Consciousness,LIVING,868,4613,0.18816388467374812,18.82
-Child Attention Deficit Disorder,LIVING,378,4613,0.0819423368740516,8.19
-Whiplash Injury To Neck,LIVING,684,4613,0.14827660958161717,14.83
-Second Degree Burn,LIVING,254,4613,0.055061781920659005,5.51
-Tubal Pregnancy,LIVING,82,4613,0.017775850856275744,1.78
-Miscarriage In Second Trimester,LIVING,199,4613,0.04313895512681552,4.31
-Complication Occuring During Pregnancy,LIVING,27,4613,0.0058530240624322565,0.59
-Diabetes,LIVING,264,4613,0.057229568610448735,5.72
-Acute Bacterial Sinusitis (Disorder),LIVING,844,4613,0.18296119661825277,18.3
-Sprain Of Ankle,LIVING,1603,4613,0.34749620637329287,34.75
-Laceration Of Forearm,LIVING,456,4613,0.09885107305441145,9.89
-Preeclampsia,LIVING,344,4613,0.07457186212876653,7.46
-Facial Laceration,LIVING,469,4613,0.10166919575113809,10.17
-Laceration Of Hand,LIVING,460,4613,0.09971818773032734,9.97
-Congenital Uterine Anomaly,LIVING,64,4613,0.013873834814654238,1.39
-Coronary Heart Disease,LIVING,155,4613,0.033600693691740735,3.36
-Suspected Lung Cancer (Situation),LIVING,0,4613,0.0,0.0
-Non Small Cell Lung Cancer (Disorder),LIVING,0,4613,0.0,0.0
-Non Small Cell Carcinoma Of Lung Tnm Stage 3 (Disorder),LIVING,0,4613,0.0,0.0
-Fracture Of Clavicle,LIVING,536,4613,0.11619336657272925,11.62
-Pulmonary Emphysema (Disorder),LIVING,75,4613,0.016258400173422935,1.63
-Stroke,LIVING,113,4613,0.024495989594623888,2.45
-Seizure Disorder,LIVING,114,4613,0.02471276826360286,2.47
-History Of Single Seizure (Situation),LIVING,114,4613,0.02471276826360286,2.47
-Fracture Of Ankle,LIVING,467,4613,0.10123563841318015,10.12
-Osteoporosis (Disorder),LIVING,96,4613,0.02081075222198136,2.08
-Myocardial Infarction,LIVING,8,4613,0.0017342293518317797,0.17
-History Of Myocardial Infarction,LIVING,8,4613,0.0017342293518317797,0.17
-Injury Of Tendon Of The Rotator Cuff Of Shoulder,LIVING,221,4613,0.04790808584435292,4.79
-Fracture Of Rib,LIVING,274,4613,0.05939735530023846,5.94
-Chronic Obstructive Bronchitis (Disorder),LIVING,69,4613,0.0149577281595491,1.5
-Polyp Of Colon,LIVING,307,4613,0.06655105137654455,6.66
-Laceration Of Foot,LIVING,439,4613,0.09516583568176891,9.52
-Escherichia Coli Urinary Tract Infection,LIVING,369,4613,0.07999132885324084,8.0
-Closed Fracture Of Hip,LIVING,115,4613,0.024929546932581835,2.49
-Cystitis,LIVING,260,4613,0.05636245393453284,5.64
-Diabetic Renal Disease (Disorder),LIVING,85,4613,0.018426186863212658,1.84
-Cardiac Arrest,LIVING,127,4613,0.027530890960329502,2.75
-History Of Cardiac Arrest,LIVING,127,4613,0.027530890960329502,2.75
-Gout,LIVING,21,4613,0.004552352048558422,0.46
-Recurrent Rectal Polyp,LIVING,64,4613,0.013873834814654238,1.39
-Chronic Pain,LIVING,42,4613,0.009104704097116844,0.91
-Injury Of Medial Collateral Ligament Of Knee,LIVING,120,4613,0.026013440277476697,2.6
-Non Small Cell Carcinoma Of Lung Tnm Stage 1 (Disorder),LIVING,0,4613,0.0,0.0
-Bullet Wound,LIVING,39,4613,0.008454368090179926,0.85
-Allergy To Bee Venom,LIVING,119,4613,0.025796661608497723,2.58
-Concussion Injury Of Brain,LIVING,74,4613,0.01604162150444396,1.6
-Localized Primary Osteoarthritis Of The Hand,LIVING,46,4613,0.009971818773032734,1.0
-Non Small Cell Carcinoma Of Lung Tnm Stage 2 (Disorder),LIVING,0,4613,0.0,0.0
-Primary Malignant Neoplasm Of Colon,LIVING,12,4613,0.00260134402774767,0.26
-Non Small Cell Carcinoma Of Lung Tnm Stage 4 (Disorder),LIVING,0,4613,0.0,0.0
-Osteoarthritis Of Hip,LIVING,41,4613,0.008887925428137872,0.89
-Chronic Intractable Migraine Without Aura,LIVING,32,4613,0.006936917407327119,0.69
-Appendicitis,LIVING,170,4613,0.036852373726425317,3.69
-History Of Appendectomy,LIVING,170,4613,0.036852373726425317,3.69
-Contact Dermatitis,LIVING,122,4613,0.02644699761543464,2.64
-Rupture Of Appendix,LIVING,55,4613,0.011922826793843485,1.19
-Diabetic Retinopathy Associated With Type Ii Diabetes Mellitus (Disorder),LIVING,87,4613,0.018859744201170606,1.89
-Neuropathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,116,4613,0.025146325601560805,2.51
-Tear Of Meniscus Of Knee,LIVING,86,4613,0.018642965532191632,1.86
-Nonproliferative Diabetic Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,55,4613,0.011922826793843485,1.19
-Proliferative Diabetic Retinopathy Due To Type Ii Diabetes Mellitus (Disorder),LIVING,8,4613,0.0017342293518317797,0.17
-Rheumatoid Arthritis,LIVING,17,4613,0.003685237372642532,0.37
-Impacted Molars,LIVING,38,4613,0.008237589421200954,0.82
-Osteoarthritis Of Knee,LIVING,133,4613,0.028831562974203338,2.88
-Rupture Of Patellar Tendon,LIVING,107,4613,0.023195317580750056,2.32
-Allergy To Peanuts,LIVING,117,4613,0.02536310427053978,2.54
-Perennial Allergic Rhinitis With Seasonal Variation,LIVING,154,4613,0.03338391502276176,3.34
-Familial Alzheimer's Disease Of Early Onset (Disorder),LIVING,9,4613,0.0019510080208107522,0.2
-Allergy To Soya,LIVING,42,4613,0.009104704097116844,0.91
-Recurrent Urinary Tract Infection,LIVING,45,4613,0.009755040104053762,0.98
-Epilepsy,LIVING,65,4613,0.01409061348363321,1.41
-Injury Of Anterior Cruciate Ligament,LIVING,66,4613,0.014307392152612184,1.43
-Brain Damage   Traumatic,LIVING,23,4613,0.004985909386516367,0.5
-Macular Edema And Retinopathy Due To Type 2 Diabetes Mellitus (Disorder),LIVING,19,4613,0.004118794710600477,0.41
-Microalbuminuria Due To Type 2 Diabetes Mellitus (Disorder),LIVING,26,4613,0.0056362453934532845,0.56
-Overlapping Malignant Neoplasm Of Colon,LIVING,20,4613,0.004335573379579449,0.43
-Protracted Diarrhea,LIVING,7,4613,0.0015174506828528073,0.15
-Bleeding From Anus,LIVING,7,4613,0.0015174506828528073,0.15
-Malignant Tumor Of Colon,LIVING,20,4613,0.004335573379579449,0.43
-Small Cell Carcinoma Of Lung (Disorder),LIVING,0,4613,0.0,0.0
-Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 3 (Disorder),LIVING,0,4613,0.0,0.0
-Pneumonia,LIVING,0,4613,0.0,0.0
-Secondary Malignant Neoplasm Of Colon,LIVING,0,4613,0.0,0.0
-Pathological Fracture Due To Osteoporosis (Disorder),LIVING,18,4613,0.0039020160416215043,0.39
-Alzheimer's Disease (Disorder),LIVING,31,4613,0.006720138738348146,0.67
-Fracture Of The Vertebral Column With Spinal Cord Injury,LIVING,4,4613,0.0008671146759158899,0.09
-Chronic Paralysis Due To Lesion Of Spinal Cord,LIVING,4,4613,0.0008671146759158899,0.09
-Drug Overdose,LIVING,41,4613,0.008887925428137872,0.89
-Primary Fibromyalgia Syndrome,LIVING,9,4613,0.0019510080208107522,0.2
-Third Degree Burn,LIVING,27,4613,0.0058530240624322565,0.59
-Fracture Of Vertebral Column Without Spinal Cord Injury,LIVING,21,4613,0.004552352048558422,0.46
-Proteinuria Due To Type 2 Diabetes Mellitus (Disorder),LIVING,8,4613,0.0017342293518317797,0.17
-Pyelonephritis,LIVING,3,4613,0.0006503360069369175,0.07
-Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 4 (Disorder),LIVING,0,4613,0.0,0.0
-Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 2 (Disorder),LIVING,0,4613,0.0,0.0
-Burn Injury(Morphologic Abnormality),LIVING,0,4613,0.0,0.0
-History Of Amputation Of Foot (Situation),LIVING,1,4613,0.00021677866897897247,0.02
-Blindness Due To Type 2 Diabetes Mellitus (Disorder),LIVING,1,4613,0.00021677866897897247,0.02
-History Of Lower Limb Amputation (Situation),LIVING,1,4613,0.00021677866897897247,0.02
-Primary Small Cell Malignant Neoplasm Of Lung Tnm Stage 1 (Disorder),LIVING,0,4613,0.0,0.0
-Amoxicillin 200 Mg Oral Tablet,LIVING,1311,4613,0.2841968350314329,28.42
-Aspirin 81 Mg Oral Tablet,LIVING,1639,4613,0.35530023845653586,35.53
-Acetaminophen 160 Mg Oral Tablet,LIVING,2646,4613,0.5735963581183612,57.36
-Dextromethorphan Hydrobromide 1 Mg/Ml,LIVING,1567,4613,0.3396921742900499,33.97
-Ibuprofen 100 Mg Oral Tablet,LIVING,1594,4613,0.3455451983524821,34.55
-Acetaminophen 160 Mg,LIVING,3168,4613,0.6867548233253847,68.68
-Camila 28 Day Pack,LIVING,746,4613,0.16171688705831347,16.17
-Ortho Tri Cyclen 28 Day Pack,LIVING,907,4613,0.19661825276392803,19.66
-Ibuprofen 200 Mg Oral Tablet,LIVING,1444,4613,0.31302839800563625,31.3
-Trinessa 28 Day Pack,LIVING,239,4613,0.05181010188597442,5.18
-Errin 28 Day Pack,LIVING,637,4613,0.13808801213960548,13.81
-Jolivette 28 Day Pack,LIVING,806,4613,0.17472360719705182,17.47
-Yaz 28 Day Pack,LIVING,247,4613,0.0535443312378062,5.35
-Mirena 52 Mg Intrauterine System,LIVING,437,4613,0.09473227834381097,9.47
-Fexofenadine Hydrochloride 30 Mg Oral Tablet,LIVING,113,4613,0.024495989594623888,2.45
-0.3 Ml Epinephrine 0.5 Mg/Ml Auto Injector,LIVING,431,4613,0.09343160632993713,9.34
-Amoxicillin 250 Mg / Clavulanate 125 Mg [Augmentin],LIVING,2382,4613,0.5163667895079124,51.64
-Penicillin V Potassium 250 Mg,LIVING,1796,4613,0.38933448948623456,38.93
-Levora 0.15/30 28 Day Pack,LIVING,135,4613,0.029265120312161285,2.93
-Naproxen Sodium 220 Mg Oral Tablet,LIVING,1098,4613,0.23802297853891177,23.8
-Amoxicillin 500 Mg Oral Tablet,LIVING,329,4613,0.07132018209408195,7.13
-Acetaminophen 325 Mg Oral Tablet,LIVING,1730,4613,0.3750270973336224,37.5
-Loratadine 5 Mg Chewable Tablet,LIVING,142,4613,0.03078257099501409,3.08
-120 Actuat Fluticasone Propionate 0.044 Mg/Actuat Metered Dose Inhaler,LIVING,250,4613,0.05419466724474312,5.42
-200 Actuat Albuterol 0.09 Mg/Actuat Metered Dose Inhaler,LIVING,250,4613,0.05419466724474312,5.42
-Astemizole 10 Mg Oral Tablet,LIVING,58,4613,0.012573162800780403,1.26
-Cefaclor 250 Mg Oral Capsule,LIVING,388,4613,0.08411012356384132,8.41
-Estrostep Fe 28 Day Pack,LIVING,566,4613,0.12269672664209842,12.27
-Levonorgestrel 0.00354 Mg/Hr [Norplant],LIVING,398,4613,0.08627791025363105,8.63
-Prednisone 5 Mg Oral Tablet,LIVING,268,4613,0.05809668328636462,5.81
-Atomoxetine 100 Mg [Strattera],LIVING,17,4613,0.003685237372642532,0.37
-Ampicillin 100 Mg/Ml Injectable Solution,LIVING,339,4613,0.07348796878387166,7.35
-Norinyl 1+50 28 Day Pack,LIVING,1011,4613,0.21916323433774115,21.92
-24 Hr Metformin Hydrochloride 500 Mg Extended Release Oral Tablet,LIVING,223,4613,0.04834164318231086,4.83
-3 Ml Liraglutide 6 Mg/Ml Pen Injector,LIVING,73,4613,0.01582484283546499,1.58
-1 Ml Depo Provera 150 Mg/Ml Injection,LIVING,677,4613,0.14675915889876437,14.68
-Cefuroxime 250 Mg Oral Tablet,LIVING,531,4613,0.11510947322783438,11.51
-Penicillin V Potassium 500 Mg,LIVING,824,4613,0.17862562323867331,17.86
-Nitroglycerin,LIVING,155,4613,0.033600693691740735,3.36
-Cisplatin 50 Mg Injection,LIVING,0,4613,0.0,0.0
-Paclitaxel 100 Mg Injection,LIVING,0,4613,0.0,0.0
-Simvastatin,LIVING,155,4613,0.033600693691740735,3.36
-Acetaminophen 325 Mg / Oxycodone Hydrochloride 5 Mg Oral Tablet,LIVING,322,4613,0.06980273141122914,6.98
-Doxycycline Monohydrate 100 Mg Oral Tablet,LIVING,40,4613,0.008671146759158898,0.87
-Clopidogrel,LIVING,234,4613,0.05072620854107956,5.07
-Alteplase,LIVING,107,4613,0.023195317580750056,2.32
-Diazepam [Valium],LIVING,77,4613,0.01669195751138088,1.67
-Clonazepam [Klonopin],LIVING,74,4613,0.01604162150444396,1.6
-Meperidine Hydrochloride 50 Mg Oral Tablet,LIVING,362,4613,0.07847387817038803,7.85
-Acetaminophen 325 Mg / Hydrocodone Bitartrate 7.5 Mg Oral Tablet,LIVING,293,4613,0.06351615001083893,6.35
-Amlodipine,LIVING,155,4613,0.033600693691740735,3.36
-Alendronic Acid 10 Mg [Fosamax],LIVING,96,4613,0.02081075222198136,2.08
-Atorvastatin,LIVING,7,4613,0.0015174506828528073,0.15
-Captopril,LIVING,8,4613,0.0017342293518317797,0.17
-Fluticasone Propionate 0.25 Mg/Actuat / Salmeterol 0.05 Mg/Actuat [Advair],LIVING,130,4613,0.02818122696726642,2.82
-Xulane 150/35 Mcg/Day Weekly Transdermal System,LIVING,166,4613,0.03598525905050943,3.6
-0.65 Ml Depo Subq Provera 160 Mg/Ml Prefilled Syringe,LIVING,175,4613,0.03793626707132018,3.79
-Nitrofurantoin 5 Mg/Ml [Furadantin],LIVING,561,4613,0.12161283329720356,12.16
-Phenazopyridine Hydrochloride 100 Mg [Pyridium],LIVING,561,4613,0.12161283329720356,12.16
-Nuvaring 0.12/0.015 Mg Per 24hr 21 Day Vaginal Ring,LIVING,327,4613,0.07088662475612399,7.09
-Nexplanon 68 Mg Drug Implant,LIVING,244,4613,0.05289399523086928,5.29
-Mestranol / Norethynodrel [Enovid],LIVING,738,4613,0.15998265770648168,16.0
-Liletta 52 Mg Intrauterine System,LIVING,61,4613,0.01322349880771732,1.32
-Seasonique 91 Day Pack,LIVING,235,4613,0.05094298721005853,5.09
-Insulin Human Isophane 70 Unt/Ml / Regular Insulin Human 30 Unt/Ml Injectable Suspension [Humulin],LIVING,82,4613,0.017775850856275744,1.78
-Epinephrine,LIVING,127,4613,0.027530890960329502,2.75
-Amiodarone,LIVING,120,4613,0.026013440277476697,2.6
-Atropine,LIVING,127,4613,0.027530890960329502,2.75
-Doxycycline Monohydrate 50 Mg Oral Tablet,LIVING,359,4613,0.07782354216345112,7.78
-Naproxen Sodium 550 Mg [Anaprox],LIVING,42,4613,0.009104704097116844,0.91
-Allopurinol 100 Mg [Zyloprim],LIVING,21,4613,0.004552352048558422,0.46
-Penicillin G 375 Mg/Ml Injectable Solution,LIVING,690,4613,0.149577281595491,14.96
-Implanon 68 Mg Drug Implant,LIVING,189,4613,0.0409711684370258,4.1
-Oxycodone Hydrochloride 15 Mg [Oxycontin],LIVING,42,4613,0.009104704097116844,0.91
-Naproxen Sodium 220 Mg [Aleve],LIVING,220,4613,0.04769130717537394,4.77
-Nitrofurantoin Macrocrystals 50 Mg [Macrodantin],LIVING,97,4613,0.02102753089096033,2.1
-Acetaminophen 325 Mg / Oxycodone Hydrochloride 5 Mg [Percocet],LIVING,32,4613,0.006936917407327119,0.69
-Hydrocortisone 10 Mg/Ml Topical Cream,LIVING,80,4613,0.017342293518317797,1.73
-Prednisone 2.5 Mg [Deltasone],LIVING,2,4613,0.00043355733795794494,0.04
-Acetaminophen 300 Mg / Hydrocodone Bitartrate 5 Mg [Vicodin],LIVING,38,4613,0.008237589421200954,0.82
-12 Hr Cefaclor 500 Mg Extended Release Oral Tablet,LIVING,49,4613,0.010622154779969651,1.06
-Cetirizine Hydrochloride 5 Mg Oral Tablet,LIVING,50,4613,0.010838933448948623,1.08
-Diphenhydramine Hydrochloride 25 Mg Oral Tablet,LIVING,128,4613,0.027747669629308476,2.77
-Galantamine 4 Mg [Razadyne],LIVING,40,4613,0.008671146759158898,0.87
-Memantine Hydrochloride 2 Mg/Ml [Namenda],LIVING,7,4613,0.0015174506828528073,0.15
-Methylphenidate Hydrochloride 20 Mg [Ritalin],LIVING,103,4613,0.022328202904834164,2.23
-Carbamazepine[Tegretol],LIVING,68,4613,0.014740949490570128,1.47
-Chlorpheniramine 2 Mg Chewable Tablet,LIVING,102,4613,0.02211142423585519,2.21
-Natazia 28 Day Pack,LIVING,139,4613,0.030132234988077173,3.01
-Fexofenadine Hydrochloride 60 Mg Oral Tablet,LIVING,10,4613,0.0021677866897897246,0.22
-Cetirizine Hydrochloride 10 Mg Oral Tablet,LIVING,9,4613,0.0019510080208107522,0.2
-Insulin Lispro 100 Unt/Ml Injectable Solution [Humalog],LIVING,23,4613,0.004985909386516367,0.5
-Leucovorin 100 Mg Injection,LIVING,28,4613,0.006069802731411229,0.61
-Oxaliplatin 5 Mg/Ml [Eloxatin],LIVING,28,4613,0.006069802731411229,0.61
-Etoposide 100 Mg Injection,LIVING,0,4613,0.0,0.0
-Donepezil Hydrochloride 10 Mg [Aricept],LIVING,0,4613,0.0,0.0
-Donepezil Hydrochloride 23 Mg [Aricept],LIVING,0,4613,0.0,0.0
-Loratadine 10 Mg Oral Tablet,LIVING,22,4613,0.004769130717537394,0.48
-Donepezil Hydrochloride 10 Mg / Memantine Hydrochloride 28 Mg [Namzaric],LIVING,14,4613,0.0030349013657056147,0.3
-Colchicine 0.6 Mg [Colcrys],LIVING,16,4613,0.0034684587036635595,0.35
-Acetaminophen 325 Mg / Oxycodone Hydrochloride 2.5 Mg [Percocet],LIVING,3,4613,0.0006503360069369175,0.07
-Milnacipran Hydrochloride 100 Mg [Savella],LIVING,2,4613,0.00043355733795794494,0.04
-Duloxetine 20 Mg [Cymbalta],LIVING,4,4613,0.0008671146759158899,0.09
-Chlorpheniramine 8 Mg Oral Tablet,LIVING,6,4613,0.001300672013873835,0.13
-Pregabalin 100 Mg [Lyrica],LIVING,6,4613,0.001300672013873835,0.13
-Kyleena 19.5 Mg Intrauterine System,LIVING,30,4613,0.006503360069369174,0.65
-Methotrexate 10 Mg [Trexall],LIVING,15,4613,0.003251680034684587,0.33
-Terfenadine 60 Mg Oral Tablet,LIVING,33,4613,0.007153696076306092,0.72
-Canagliflozin 100 Mg Oral Tablet,LIVING,19,4613,0.004118794710600477,0.41
-Tacrine 10 Mg Oral Capsule,LIVING,0,4613,0.0,0.0
+Acute Viral Pharyngitis (Disorder),LIVING,17,20,0.85,85.0
+Sprain Of Wrist,LIVING,3,20,0.15,15.0
+Fracture Of Clavicle,LIVING,1,20,0.05,5.0
+Streptococcal Sore Throat (Disorder),LIVING,9,20,0.45,45.0
+Sprain Of Ankle,LIVING,4,20,0.2,20.0
+Child Attention Deficit Disorder,LIVING,0,20,0.0,0.0
+Acute Bronchitis (Disorder),LIVING,16,20,0.8,80.0
+Viral Sinusitis (Disorder),LIVING,18,20,0.9,90.0
+Laceration Of Foot,LIVING,0,20,0.0,0.0
+Concussion With No Loss Of Consciousness,LIVING,3,20,0.15,15.0
+Acute Bacterial Sinusitis (Disorder),LIVING,6,20,0.3,30.0
+Concussion With Loss Of Consciousness,LIVING,2,20,0.1,10.0
+Prediabetes,LIVING,4,20,0.2,20.0
+Laceration Of Hand,LIVING,5,20,0.25,25.0
+Otitis Media,LIVING,13,20,0.65,65.0
+Fracture Of Rib,LIVING,3,20,0.15,15.0
+Chronic Sinusitis (Disorder),LIVING,7,20,0.35,35.0
+Fracture Of Ankle,LIVING,2,20,0.1,10.0
+First Degree Burn,LIVING,2,20,0.1,10.0
+Localized Primary Osteoarthritis Of The Hand,LIVING,1,20,0.05,5.0
+Suspected Lung Cancer (Situation),LIVING,0,20,0.0,0.0
+Non Small Cell Lung Cancer (Disorder),LIVING,0,20,0.0,0.0
+Non Small Cell Carcinoma Of Lung Tnm Stage 4 (Disorder),LIVING,0,20,0.0,0.0
+Coronary Heart Disease,LIVING,0,20,0.0,0.0
+Seizure Disorder,LIVING,1,20,0.05,5.0
+History Of Single Seizure (Situation),LIVING,1,20,0.05,5.0
+Epilepsy,LIVING,1,20,0.05,5.0
+Myocardial Infarction,LIVING,0,20,0.0,0.0
+History Of Myocardial Infarction,LIVING,0,20,0.0,0.0
+Fracture Subluxation Of Wrist,LIVING,4,20,0.2,20.0
+Second Degree Burn,LIVING,1,20,0.05,5.0
+Normal Pregnancy,LIVING,8,20,0.4,40.0
+Preeclampsia,LIVING,3,20,0.15,15.0
+Antepartum Eclampsia,LIVING,4,20,0.2,20.0
+Sinusitis (Disorder),LIVING,3,20,0.15,15.0
+Shellfish Allergy,LIVING,1,20,0.05,5.0
+Facial Laceration,LIVING,2,20,0.1,10.0
+Laceration Of Forearm,LIVING,2,20,0.1,10.0
+Pulmonary Emphysema (Disorder),LIVING,0,20,0.0,0.0
+Cystitis,LIVING,0,20,0.0,0.0
+Escherichia Coli Urinary Tract Infection,LIVING,2,20,0.1,10.0
+Polyp Of Colon,LIVING,2,20,0.1,10.0
+Overlapping Malignant Neoplasm Of Colon,LIVING,1,20,0.05,5.0
+Laceration Of Thigh,LIVING,2,20,0.1,10.0
+Osteoporosis (Disorder),LIVING,1,20,0.05,5.0
+Fracture Of Forearm,LIVING,5,20,0.25,25.0
+Pathological Fracture Due To Osteoporosis (Disorder),LIVING,1,20,0.05,5.0
+Miscarriage In First Trimester,LIVING,5,20,0.25,25.0
+Fetus With Chromosomal Abnormality,LIVING,3,20,0.15,15.0
+Whiplash Injury To Neck,LIVING,2,20,0.1,10.0
+Hypertension,LIVING,2,20,0.1,10.0
+Appendicitis,LIVING,1,20,0.05,5.0
+History Of Appendectomy,LIVING,1,20,0.05,5.0
+Injury Of Anterior Cruciate Ligament,LIVING,1,20,0.05,5.0
+Stroke,LIVING,1,20,0.05,5.0
+Allergy To Peanuts,LIVING,0,20,0.0,0.0
+Contact Dermatitis,LIVING,0,20,0.0,0.0
+Miscarriage In Second Trimester,LIVING,1,20,0.05,5.0
+Blighted Ovum,LIVING,2,20,0.1,10.0
+Cardiac Arrest,LIVING,2,20,0.1,10.0
+History Of Cardiac Arrest,LIVING,2,20,0.1,10.0
+Tubal Pregnancy,LIVING,2,20,0.1,10.0
+Injury Of Tendon Of The Rotator Cuff Of Shoulder,LIVING,1,20,0.05,5.0
+Aspirin 81 Mg Oral Tablet,LIVING,7,20,0.35,35.0
+Acetaminophen 160 Mg Oral Tablet,LIVING,11,20,0.55,55.0
+Penicillin V Potassium 250 Mg,LIVING,8,20,0.4,40.0
+Acetaminophen 160 Mg,LIVING,14,20,0.7,70.0
+Acetaminophen 325 Mg Oral Tablet,LIVING,7,20,0.35,35.0
+Amoxicillin 250 Mg / Clavulanate 125 Mg [Augmentin],LIVING,14,20,0.7,70.0
+Dextromethorphan Hydrobromide 1 Mg/Ml,LIVING,6,20,0.3,30.0
+Meperidine Hydrochloride 50 Mg Oral Tablet,LIVING,1,20,0.05,5.0
+Naproxen Sodium 220 Mg [Aleve],LIVING,1,20,0.05,5.0
+Amoxicillin 500 Mg Oral Tablet,LIVING,2,20,0.1,10.0
+Naproxen Sodium 220 Mg Oral Tablet,LIVING,6,20,0.3,30.0
+Cisplatin 50 Mg Injection,LIVING,0,20,0.0,0.0
+Paclitaxel 100 Mg Injection,LIVING,0,20,0.0,0.0
+Nitroglycerin,LIVING,0,20,0.0,0.0
+Clonazepam [Klonopin],LIVING,1,20,0.05,5.0
+Carbamazepine[Tegretol],LIVING,1,20,0.05,5.0
+Diazepam [Valium],LIVING,0,20,0.0,0.0
+Acetaminophen 325 Mg / Oxycodone Hydrochloride 5 Mg Oral Tablet,LIVING,4,20,0.2,20.0
+Penicillin G 375 Mg/Ml Injectable Solution,LIVING,2,20,0.1,10.0
+Norinyl 1+50 28 Day Pack,LIVING,5,20,0.25,25.0
+Mestranol / Norethynodrel [Enovid],LIVING,5,20,0.25,25.0
+Ortho Tri Cyclen 28 Day Pack,LIVING,3,20,0.15,15.0
+Ibuprofen 200 Mg Oral Tablet,LIVING,3,20,0.15,15.0
+Fexofenadine Hydrochloride 30 Mg Oral Tablet,LIVING,1,20,0.05,5.0
+0.3 Ml Epinephrine 0.5 Mg/Ml Auto Injector,LIVING,1,20,0.05,5.0
+Cefuroxime 250 Mg Oral Tablet,LIVING,3,20,0.15,15.0
+Ibuprofen 100 Mg Oral Tablet,LIVING,9,20,0.45,45.0
+Ampicillin 100 Mg/Ml Injectable Solution,LIVING,1,20,0.05,5.0
+Fluticasone Propionate 0.25 Mg/Actuat / Salmeterol 0.05 Mg/Actuat [Advair],LIVING,0,20,0.0,0.0
+1 Ml Depo Provera 150 Mg/Ml Injection,LIVING,5,20,0.25,25.0
+Nitrofurantoin 5 Mg/Ml [Furadantin],LIVING,2,20,0.1,10.0
+Phenazopyridine Hydrochloride 100 Mg [Pyridium],LIVING,2,20,0.1,10.0
+Nitrofurantoin Macrocrystals 50 Mg [Macrodantin],LIVING,0,20,0.0,0.0
+Leucovorin 100 Mg Injection,LIVING,1,20,0.05,5.0
+Oxaliplatin 5 Mg/Ml [Eloxatin],LIVING,1,20,0.05,5.0
+Alendronic Acid 10 Mg [Fosamax],LIVING,1,20,0.05,5.0
+Levonorgestrel 0.00354 Mg/Hr [Norplant],LIVING,3,20,0.15,15.0
+Estrostep Fe 28 Day Pack,LIVING,1,20,0.05,5.0
+Amoxicillin 200 Mg Oral Tablet,LIVING,5,20,0.25,25.0
+Mirena 52 Mg Intrauterine System,LIVING,2,20,0.1,10.0
+Yaz 28 Day Pack,LIVING,2,20,0.1,10.0
+Penicillin V Potassium 500 Mg,LIVING,3,20,0.15,15.0
+Cefaclor 250 Mg Oral Capsule,LIVING,1,20,0.05,5.0
+0.65 Ml Depo Subq Provera 160 Mg/Ml Prefilled Syringe,LIVING,1,20,0.05,5.0
+Trinessa 28 Day Pack,LIVING,1,20,0.05,5.0
+Camila 28 Day Pack,LIVING,3,20,0.15,15.0
+Doxycycline Monohydrate 50 Mg Oral Tablet,LIVING,2,20,0.1,10.0
+Clopidogrel,LIVING,1,20,0.05,5.0
+Alteplase,LIVING,1,20,0.05,5.0
+Jolivette 28 Day Pack,LIVING,3,20,0.15,15.0
+Xulane 150/35 Mcg/Day Weekly Transdermal System,LIVING,2,20,0.1,10.0
+Epinephrine,LIVING,2,20,0.1,10.0
+Amiodarone,LIVING,2,20,0.1,10.0
+Atropine,LIVING,2,20,0.1,10.0
+12 Hr Cefaclor 500 Mg Extended Release Oral Tablet,LIVING,1,20,0.05,5.0
+Errin 28 Day Pack,LIVING,2,20,0.1,10.0
+Nuvaring 0.12/0.015 Mg Per 24hr 21 Day Vaginal Ring,LIVING,1,20,0.05,5.0
+Implanon 68 Mg Drug Implant,LIVING,1,20,0.05,5.0
+Nexplanon 68 Mg Drug Implant,LIVING,1,20,0.05,5.0
